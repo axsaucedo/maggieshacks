@@ -1,28 +1,19 @@
-# [TrainHack](http://trainhack.com/) - Hacking on a train!
+# [Maggie's Hacks](http://magieshacks.com/)
 
-[TrainHack](http://trainhack.com/) is the first train hackathon in Europe.
+[Maggie's Hacks](http://maggie.com/) is a 12-hour hackday aimed to revolutionize the lives of cancer patients.
 
-## How to apply?
+## How to apply to the hackathon?
 
-Just visit [TrainHack.com](http://trainhack.com/#apply) and submit your application.
+Just visit [maggieshacks.com](http://maggieshacks.com/#apply) and submit your application.
 
 ## Sponsors
 
-The TrainHack 2014 is being sponsored by:
-
-* Sponsors to be announced.
-
-## Organizing Team
-
-Our organizing partners include:
-
-* http://hackaglobal.com
-* http://www.dotforgeaccelerator.com/
+The TrainHack 2014 is being sponsored by Bloomberg.
 
 
 ## Use this theme for your next hackathon!
 
-This website has been created using the Startup Grayscale bootstrap theme, and has been registered under an Apache 2.0 licence, which will allow any awesome developers to re-use this theme in any of your upcoming hackathon websites.!
+This website has been created using the HackTrain theme, and has been registered under an Apache 2.0 licence, which will allow any awesome developers to re-use this theme in any of your upcoming hackathon websites.!
 
 ## Copyright and License
 
