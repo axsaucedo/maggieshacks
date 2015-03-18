@@ -316,7 +316,7 @@ ul.banner-social-buttons {
 }
 
 ul.banner-social-buttons li {
-    margin: auto auto;
+    margin: auto auto;;
 }
 
 @media(max-width:1199px) {
